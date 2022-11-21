@@ -9,13 +9,13 @@
     justify-content: center;
     align-items: center;
     scroll-behavior: smooth;
-    background: #131313;
+    background: ul ("https://www.vecteezy.com/video/1625492-purple-technology-circuit-background") no repeat;
     font-family:'Helvetica Neue', sans-serif;
 }
 
 h1 a {
   font-size: 80px;
-  color: #5f0a87;
+  color: #191919;
   text-decoration: none;
   text-transform: uppercase;
 }
