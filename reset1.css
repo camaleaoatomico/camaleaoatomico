@@ -8,14 +8,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #191919;
+    background-color: ##ccf6ff;
     scroll-behavior: smooth;
     font-family:'Helvetica Neue', sans-serif;
 }
 
 h1 a {
   font-size: 80px;
-  color: #191919;
+  color: #5f0a87;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -80,7 +80,7 @@ h1 a {
   width: 0px;
   left: 0;
   bottom: 10px;
-  background: #BF2E97; 
+  background: #5f0a87; 
   transition: all .5s ease;
 }
 
@@ -105,7 +105,7 @@ h1 a {
   font-size: 30px;
   align-items: center;
   justify-content: center;
-  background-color: #BF2E97;
+  background-color: #5f0a87;
   color: #fff;
   content: "×";
   cursor: pointer;
