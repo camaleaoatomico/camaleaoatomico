@@ -8,15 +8,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ccf6ff;
+    background-color: #000000;
     scroll-behavior: smooth;
     font-family:'Helvetica Neue', sans-serif;
 }
 
 h1 a {
   font-size: 80px;
-  color: #5f0a87;
-  text-decoration: none;
+  color: #ffffff;
+  text-decoration: overline;
   text-transform: uppercase;
 }
 
